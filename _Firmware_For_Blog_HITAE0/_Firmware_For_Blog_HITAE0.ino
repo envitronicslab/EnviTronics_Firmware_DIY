@@ -1,6 +1,5 @@
 /***************************************************************************
-* This sketch is written and provided by EnviTronics Lab free of charge. 
-* Please feel free to use in your project and redistribute. 
+* This sketch is written and provided by EnviTronics Lab. 
 * 
 * This sketch shows how you can read up to four EnviTronics Lab soil & rockwool HITA E0 EC/TDS sensor:
 * https://www.envitronicslab.com/hita-e0
