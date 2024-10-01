@@ -1,6 +1,5 @@
 /***************************************************************************
-* This sketch is written and provided by EnviTronics Lab free of charge. 
-* Please feel free to use in your project and redistribute. 
+* This sketch is written and provided by EnviTronics. 
 * 
 * This sketch shows how you can read up to four EnviTronics Lab APAS T1 soil & rockwool moisture sensor:
 * https://www.envitronicslab.com/apas-t1
